@@ -32,7 +32,9 @@ Minha jornada na área da tecnologia tem sido repleta de descobertas e desafios.
 
 ### GitHub Stats 📊
 ![Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoRibeiroZ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NetoRibeiroZ&layout=compact)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=NetoRibeiroZ&layout=compact)
+
+
 
 
 
