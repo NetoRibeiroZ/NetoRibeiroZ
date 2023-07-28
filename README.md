@@ -4,7 +4,7 @@ Sou Neto Ribeiro, formado em Sistemas e Mídias Digitais, com uma trajetória di
 
 ### Expertise 🚀
 
-Minha jornada na área da tecnologia tem sido repleta de descobertas e desafios. Explorei diversas áreas, buscando encontrar meu verdadeiro propósito. Foi então que me apaixonei pelo desenvolvimento frontend, hoje, meu foco é aprimorar minhas habilidades como desenvolvedor frontend, concentrando-me nos principais frameworks, com destaque para o Vue.js ![image](https://github.com/NetoRibeiroZ/NetoRibeiroZ/assets/28659398/b4f6a389-bbd0-4de7-9099-c70e41430313). Sua simplicidade, versatilidade e capacidade de criar aplicações interativas me cativaram. Por meio do meu GitHub, compartilho projetos que refletem minha dedicação em me desenvolver e a busca constante por dominar as nuances do Vue.js. Estou animado com as possibilidades que o frontend oferece e em criar experiências incríveis para os usuários. Vamos juntos nessa jornada de crescimento e inovação! 
+Minha jornada na área da tecnologia tem sido repleta de descobertas e desafios. Explorei diversas áreas, buscando encontrar meu verdadeiro propósito. Foi então que me apaixonei pelo desenvolvimento frontend, hoje, meu foco é aprimorar minhas habilidades como desenvolvedor frontend, concentrando-me nos principais frameworks, com destaque para o Vue.js. Sua simplicidade, versatilidade e capacidade de criar aplicações interativas me cativaram. Por meio do meu GitHub, compartilho projetos que refletem minha dedicação em me desenvolver e a busca constante por dominar as nuances do Vue.js. Estou animado com as possibilidades que o frontend oferece e em criar experiências incríveis para os usuários. Vamos juntos nessa jornada de crescimento e inovação! 
 
 
 ### Tech Stack 🧰
@@ -17,10 +17,13 @@ Minha jornada na área da tecnologia tem sido repleta de descobertas e desafios.
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 ### Socials 📱
@@ -29,6 +32,8 @@ Minha jornada na área da tecnologia tem sido repleta de descobertas e desafios.
 
 ### GitHub Stats 📊
 ![Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoRibeiroZ&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NetoRibeiroZ&layout=compact)
+
 
 
 
