@@ -31,7 +31,7 @@ Minha jornada na área da tecnologia tem sido repleta de descobertas e desafios.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neto-rodriguez/)
 
 ### GitHub Stats 📊
-![Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoRibeiroZ&show_icons=true&theme=radical&hide_rank=false)
+![Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoRibeiroZ&show_icons=true&theme=radical&hide_rank=true)
 
 
 
