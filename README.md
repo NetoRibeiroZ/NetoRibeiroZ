@@ -1,10 +1,10 @@
 ### Hi there 👋 My Name is Neto Ribeiro 😁
 
-Olá! Sou Neto Ribeiro, formado em Sistemas e Mídias Digitais, com uma trajetória diversificada pelo desenvolvimento de software. Sou apaixonado por desafios e aprendizado contínuo no mundo do desenvolvimento de software. Sempre em busca de experiências desafiadoras, estou constantemente explorando novas tecnologias e expandindo meus conhecimentos.
+Sou Neto Ribeiro, formado em Sistemas e Mídias Digitais, com uma trajetória diversificada pelo desenvolvimento de software. Sou apaixonado por desafios e aprendizado contínuo no mundo do desenvolvimento de software. Sempre em busca de experiências desafiadoras, estou constantemente explorando novas tecnologias e expandindo meus conhecimentos.
 
 ### Expertise 🚀
 
-Minha jornada na área da tecnologia tem sido repleta de descobertas e desafios. Explorei diversas áreas, buscando encontrar meu verdadeiro propósito. Foi então que me apaixonei pelo desenvolvimento frontend e, em especial, pelo framework Vue.js. Hoje, meu foco é aprimorar minhas habilidades como desenvolvedor frontend, concentrando-me nos principais frameworks, com destaque para o Vue.js. Sua simplicidade, versatilidade e capacidade de criar aplicações interativas me cativaram. Por meio do meu GitHub, compartilho projetos que refletem minha dedicação em me desenvolver e a busca constante por dominar as nuances do Vue.js. Estou animado com as possibilidades que o frontend oferece e em criar experiências incríveis para os usuários. Vamos juntos nessa jornada de crescimento e inovação! 
+Minha jornada na área da tecnologia tem sido repleta de descobertas e desafios. Explorei diversas áreas, buscando encontrar meu verdadeiro propósito. Foi então que me apaixonei pelo desenvolvimento frontend, hoje, meu foco é aprimorar minhas habilidades como desenvolvedor frontend, concentrando-me nos principais frameworks, com destaque para o Vue.js ![image](https://github.com/NetoRibeiroZ/NetoRibeiroZ/assets/28659398/b4f6a389-bbd0-4de7-9099-c70e41430313). Sua simplicidade, versatilidade e capacidade de criar aplicações interativas me cativaram. Por meio do meu GitHub, compartilho projetos que refletem minha dedicação em me desenvolver e a busca constante por dominar as nuances do Vue.js. Estou animado com as possibilidades que o frontend oferece e em criar experiências incríveis para os usuários. Vamos juntos nessa jornada de crescimento e inovação! 
 
 
 ### Tech Stack 🧰
@@ -23,14 +23,12 @@ Minha jornada na área da tecnologia tem sido repleta de descobertas e desafios.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+### Socials 📱
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/euribeironeto/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neto-rodriguez/)
 
 ### GitHub Stats 📊
 ![Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoRibeiroZ&show_icons=true&theme=radical)
 
 
-
-
-### Socials 📱
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/euribeironeto/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neto-rodriguez/)
 
