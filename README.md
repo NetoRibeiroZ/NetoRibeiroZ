@@ -1,6 +1,8 @@
 ### Hi there 👋 My Name is Neto Ribeiro 😁
 
 
+
+
 ### Tech Stack 🧰
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -14,11 +16,15 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+
 ### GitHub Stats 📊
 ![Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=NetoRibeiroZ&show_icons=true&theme=radical)
 
 
+
+
 ### Socials 📱
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/euribeironeto/)
+![[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/euribeironeto/)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/neto-rodriguez/)
 
