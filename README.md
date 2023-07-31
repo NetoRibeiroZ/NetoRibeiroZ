@@ -39,3 +39,4 @@ Minha jornada na área da tecnologia tem sido repleta de descobertas e desafios.
 
 
 
+
