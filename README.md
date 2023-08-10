@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is Neto Ribeiro 😁
+### Hi there 👋😁
 
 Sou Neto Ribeiro, formado em Sistemas e Mídias Digitais, com uma trajetória diversificada pelo desenvolvimento de software. Sou apaixonado por desafios e aprendizado contínuo no mundo do desenvolvimento de software. Sempre em busca de experiências desafiadoras, estou constantemente explorando novas tecnologias e expandindo meus conhecimentos.
 
